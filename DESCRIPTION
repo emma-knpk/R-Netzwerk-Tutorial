@@ -1,0 +1,8 @@
+Package: R-Netzwerk-Tutorial
+Type: Package
+Title: Ein Netzwerk Tutorial in R
+Version: 0.1.0
+Author: Dein Name
+Maintainer: Deine E-Mail
+Description: Ein einfaches R-Paket, das ein Tutorial zur Netzwerk-Analyse bietet.
+License: GPL-3

@@ -1,6 +1,6 @@
-Package: R-Netzwerk-Tutorial
+Package: r-netzwerk-tutorial
 Type: Package
-Title: Ein Netzwerk Tutorial in R
+Title: Ein Netzwerk-Tutorial in R
 Version: 0.1.0
 Author: Dein Name
 Maintainer: Dein Name <deine-email@example.com>
